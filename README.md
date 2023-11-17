@@ -1,7 +1,10 @@
+GROUP MEMBERS:-
 RAHUL PAL 22022002016004(56) ;
 ABHINANDAN BAKSHI 22022002016005(58) ;
 SAYANTAN GHOSH 22022002016019(67)
 
 
-PROJECT SAMPLE:
-![WhatsApp Image 2023-11-17 at 1 32 34 PM](https://github.com/Rahulcaiml/java_project_2dgame/assets/122740248/c093cec4-bef5-4590-9f2b-d7afd73e4531)
+PROJECT SAMPLE :
+
+https://github.com/Rahulcaiml/java_project_2dgame/assets/122740248/1b74446a-061f-4092-970a-756a6d3296e6
+
